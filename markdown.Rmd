@@ -26,3 +26,21 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+
+```{r}
+knitr::kable(head(iris))
+```
+
+
+```{r}
+plot(cars)
+```
+
+```{bash}
+pwd
+```
+
+commentaire :
+
+la formule est $\Delta = b^2 - 4ac$
