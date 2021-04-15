@@ -1,4 +1,4 @@
-# EvaluationM4M5
+# EvaluationM4M5  [lien rapport html VICHITA](https://vichitaok.github.io/dubii_2021/EvaluationM4M5-main/VO_Evaluation.html)
 
 Pour l'évaluation finale des modules 4 et 5, vous devrez compléter le rapport Rmd que vous trouverez dans cette archive :
 
@@ -23,7 +23,6 @@ Les parties 1 à 4 seront notées pour l'évaluation du module 4, les parties 5 
 
 * **Avant le 15 avril**
 * Lien vers le rapport HTML déployé sur vos Github Pages ou lien vers votre dépôt _public_ (!)
-  [lien rapport html VICHITA](https://vichitaok.github.io/dubii_2021/EvaluationM4M5-main/VO_Evaluation.html)
   - soit dans le slack en message privé à @Valentin Loux et @Olivier Rué
   - soit par mail à valentin.loux@inrae.fr et olivier.rue@inrae.fr
 
